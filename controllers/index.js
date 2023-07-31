@@ -1,0 +1,8 @@
+export {default as registerController} from './auth/registerController'
+export {default as loginController} from './auth/loginController'
+export {default as postRides} from './rides/postRides'
+export {default as locationController} from './locations/locationController'
+export {default as finalisedRide} from './rides/finalisedRide'
+export {default as driverDetails} from './driver/driverDetails'
+export {default as Message} from './Comm/Message'
+export {default as Conversation} from './Comm/Conversation'
